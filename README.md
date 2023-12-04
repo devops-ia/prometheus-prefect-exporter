@@ -1,3 +1,7 @@
+# ⚠️  DEPRECATED - Prometheus Prefect Exporter
+
+This chart was moved to <https://github.com/PrefectHQ/prometheus-prefect-exporter>.
+
 # Prometheus Prefect Exporter
 
 A Prometheus exporter for [Prefect.io](https://www.prefect.io/) metrics, written in Python.
